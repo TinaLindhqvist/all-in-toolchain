@@ -27,7 +27,3 @@ pagerduty:
 #SauceLabs
 saucelabs:
   service_id: saucelabs
-
-#ActiveDeploy
-activedeploy:
-  service_id: activedeploy
